@@ -1,0 +1,1156 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "João",
+      "lastName": "Silva",
+      "avatarUrl": "https://example.com/avatar1.jpg",
+      "telephone": "(11) 1234-5678",
+      "email": "joao.silva@example.com",
+      "password": "senha_encriptada_1",
+      "jobLevel": "estagiario",
+      "title": "Desenvolvedora Full-stack",
+      "aboutMe": "Estudante de Engenharia de Computação."
+    },
+    {
+      "id": "2",
+      "name": "Maria",
+      "lastName": "Santos",
+      "avatarUrl": "https://example.com/avatar2.jpg",
+      "telephone": "(21) 9876-5432",
+      "email": "maria.santos@example.com",
+      "password": "senha_encriptada_2",
+      "jobLevel": "junior",
+      "title": "Desenvolvedor Front-end",
+      "aboutMe": "Desenvolvedora Front-end apaixonada por tecnologia."
+    },
+    {
+      "id": "3",
+      "name": "Carlos",
+      "lastName": "Oliveira",
+      "avatarUrl": "https://example.com/avatar3.jpg",
+      "telephone": "(31) 8765-4321",
+      "email": "carlos.oliveira@example.com",
+      "password": "senha_encriptada_3",
+      "jobLevel": "pleno",
+      "title": "Analista de Sistemas",
+      "aboutMe": "Analista de sistemas com experiência em projetos web."
+    },
+    {
+      "id": "4",
+      "name": "Ana",
+      "lastName": "Pereira",
+      "avatarUrl": "https://example.com/avatar4.jpg",
+      "telephone": "(41) 5555-5555",
+      "email": "ana.pereira@example.com",
+      "password": "senha_encriptada_4",
+      "jobLevel": "senior",
+      "title": "Arquiteta de Software",
+      "aboutMe": "Arquiteta de software com foco em soluções escaláveis."
+    },
+    {
+      "id": "5",
+      "name": "Lucas",
+      "lastName": "Fernandes",
+      "avatarUrl": "https://example.com/avatar5.jpg",
+      "telephone": "(51) 4444-4444",
+      "email": "lucas.fernandes@example.com",
+      "password": "senha_encriptada_5",
+      "jobLevel": "estagiario",
+      "title": "Desenvolvedor Front-end",
+      "aboutMe": "Estudante de Ciência da Computação entusiasta por inteligência artificial."
+    },
+    {
+      "id": "6",
+      "name": "Mariana",
+      "lastName": "Costa",
+      "avatarUrl": "https://example.com/avatar6.jpg",
+      "telephone": "(61) 3333-3333",
+      "email": "mariana.costa@example.com",
+      "password": "senha_encriptada_6",
+      "jobLevel": "pleno",
+      "title": "Desenvolvedora Full-stack",
+      "aboutMe": "Desenvolvedora full-stack com experiência em frameworks modernos."
+    },
+    {
+      "id": "7",
+      "name": "Pedro",
+      "lastName": "Machado",
+      "avatarUrl": "https://example.com/avatar7.jpg",
+      "telephone": "(71) 2222-2222",
+      "email": "pedro.machado@example.com",
+      "password": "senha_encriptada_7",
+      "jobLevel": "junior",
+      "title": "Desenvolvedor Back-end",
+      "aboutMe": "Desenvolvedor back-end com interesse em machine learning."
+    },
+    {
+      "id": "8",
+      "name": "Juliana",
+      "lastName": "Almeida",
+      "avatarUrl": "https://example.com/avatar8.jpg",
+      "telephone": "(81) 1111-1111",
+      "email": "juliana.almeida@example.com",
+      "password": "senha_encriptada_8",
+      "jobLevel": "senior",
+      "title":"Engenheira Front-end",
+      "aboutMe": "Engenheira de software especializada em sistemas distribuídos."
+    },
+    {
+      "id": "9",
+      "name": "Rafael",
+      "lastName": "Oliveira",
+      "avatarUrl": "https://example.com/avatar9.jpg",
+      "telephone": "(91) 9999-9999",
+      "email": "rafael.oliveira@example.com",
+      "password": "senha_encriptada_9",
+      "jobLevel": "pleno",
+      "title":"Desenvolvedor Mobile",
+      "aboutMe": "Desenvolvedor mobile com experiência em aplicativos nativos."
+    },
+    {
+      "id": "10",
+      "name": "Fernanda",
+      "lastName": "Ribeiro",
+      "avatarUrl": "https://example.com/avatar10.jpg",
+      "telephone": "(101) 1010-1010",
+      "email": "fernanda.ribeiro@example.com",
+      "password": "senha_encriptada_10",
+      "jobLevel": "junior",
+      "title":"Engenheira Front-end",
+      "aboutMe": "Estudante de Engenharia de Software apaixonada por design de interface."
+    },
+    {
+      "id": "11",
+      "name": "Gustavo",
+      "lastName": "Lima",
+      "avatarUrl": "https://example.com/avatar11.jpg",
+      "telephone": "(111) 1111-1111",
+      "email": "gustavo.lima@example.com",
+      "password": "senha_encriptada_11",
+      "jobLevel": "senior",
+      "title":"Arquiteta de Software",
+      "aboutMe": "Arquiteto de soluções cloud com ampla experiência em AWS."
+    },
+    {
+      "id": "12",
+      "name": "Camila",
+      "lastName": "Sousa",
+      "avatarUrl": "https://example.com/avatar12.jpg",
+      "telephone": "(121) 1212-1212",
+      "email": "camila.sousa@example.com",
+      "password": "senha_encriptada_12",
+      "jobLevel": "pleno",
+      "title":"Desenvolvedora de Jogos",
+      "aboutMe": "Desenvolvedora de jogos com foco em realidade virtual."
+    }
+  ],
+  "addresses": [
+    {
+      "id": "1",
+      "userId": "1",
+      "zipCode": "12345-678",
+      "street": "Rua A",
+      "number": "123",
+      "neighborhood": "Bairro X",
+      "city": "Cidade A",
+      "state": "UF"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "zipCode": "54321-876",
+      "street": "Rua B",
+      "number": "456",
+      "neighborhood": "Bairro Y",
+      "city": "Cidade B",
+      "state": "UF"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "zipCode": "98765-432",
+      "street": "Rua C",
+      "number": "789",
+      "neighborhood": "Bairro Z",
+      "city": "Cidade C",
+      "state": "UF"
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "zipCode": "11111-111",
+      "street": "Rua D",
+      "number": "101",
+      "neighborhood": "Bairro W",
+      "city": "Cidade D",
+      "state": "UF"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "zipCode": "22222-222",
+      "street": "Rua E",
+      "number": "202",
+      "neighborhood": "Bairro V",
+      "city": "Cidade E",
+      "state": "UF"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "zipCode": "33333-333",
+      "street": "Rua F",
+      "number": "303",
+      "neighborhood": "Bairro U",
+      "city": "Cidade F",
+      "state": "UF"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "zipCode": "44444-444",
+      "street": "Rua G",
+      "number": "404",
+      "neighborhood": "Bairro T",
+      "city": "Cidade G",
+      "state": "UF"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "zipCode": "55555-555",
+      "street": "Rua H",
+      "number": "505",
+      "neighborhood": "Bairro S",
+      "city": "Cidade H",
+      "state": "UF"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "zipCode": "66666-666",
+      "street": "Rua I",
+      "number": "606",
+      "neighborhood": "Bairro R",
+      "city": "Cidade I",
+      "state": "UF"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "zipCode": "77777-777",
+      "street": "Rua J",
+      "number": "707",
+      "neighborhood": "Bairro Q",
+      "city": "Cidade J",
+      "state": "UF"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "zipCode": "88888-888",
+      "street": "Rua K",
+      "number": "808",
+      "neighborhood": "Bairro P",
+      "city": "Cidade K",
+      "state": "UF"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "zipCode": "99999-999",
+      "street": "Rua L",
+      "number": "909",
+      "neighborhood": "Bairro O",
+      "city": "Cidade L",
+      "state": "UF"
+    }
+  ],
+  "socials": [
+    {
+      "id": "1",
+      "userId": "1",
+      "socialName": "linkedin",
+      "url": "https://www.linkedin.com/in/joao-silva"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "socialName": "github",
+      "url": "https://github.com/maria-santos"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "socialName": "linkedin",
+      "url": "https://www.linkedin.com/in/carlos-oliveira"
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "socialName": "github",
+      "url": "https://github.com/ana-pereira"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "socialName": "linkedin",
+      "url": "https://www.linkedin.com/in/lucas-fernandes"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "socialName": "github",
+      "url": "https://github.com/mariana-costa"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "socialName": "linkedin",
+      "url": "https://www.linkedin.com/in/pedro-machado"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "socialName": "github",
+      "url": "https://github.com/juliana-almeida"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "socialName": "linkedin",
+      "url": "https://www.linkedin.com/in/rafael-oliveira"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "socialName": "github",
+      "url": "https://github.com/fernanda-ribeiro"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "socialName": "linkedin",
+      "url": "https://www.linkedin.com/in/gustavo-lima"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "socialName": "github",
+      "url": "https://github.com/camila-sousa"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Sistema de Gerenciamento de Tarefas",
+      "urlDeploy": "https://task-management-app.com",
+      "source_code": "https://github.com/joao-silva/task-management",
+      "description": "Um aplicativo web para gerenciar tarefas e projetos de forma eficiente."
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "title": "Portfolio Pessoal",
+      "urlDeploy": "https://maria-portfolio.com",
+      "source_code": "https://github.com/maria-santos/portfolio",
+      "description": "Um site pessoal para exibir o portfólio e experiência profissional de Maria Santos."
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "title": "Sistema de Controle Financeiro",
+      "urlDeploy": "https://financial-control-app.com",
+      "source_code": "https://github.com/carlos-oliveira/financial-control",
+      "description": "Um aplicativo para controle financeiro pessoal, com gráficos e relatórios detalhados."
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "title": "Plataforma de E-learning",
+      "urlDeploy": "https://elearning-platform.com",
+      "source_code": "https://github.com/ana-pereira/elearning-platform",
+      "description": "Uma plataforma online para cursos e aprendizado a distância."
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "title": "Aplicativo de Reconhecimento Facial",
+      "urlDeploy": "https://facial-recognition-app.com",
+      "source_code": "https://github.com/lucas-fernandes/facial-recognition",
+      "description": "Um aplicativo que utiliza reconhecimento facial para autenticação e segurança."
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "title": "Blog Pessoal",
+      "urlDeploy": "https://mariana-blog.com",
+      "source_code": "https://github.com/mariana-costa/personal-blog",
+      "description": "Um blog pessoal onde Mariana compartilha suas experiências e conhecimentos na área de tecnologia."
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "title": "Sistema de Gestão de Projetos",
+      "urlDeploy": "https://project-management-system.com",
+      "source_code": "https://github.com/pedro-machado/project-management",
+      "description": "Uma ferramenta completa para gerenciamento de projetos, com funcionalidades avançadas."
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "title": "Aplicativo de Receitas",
+      "urlDeploy": "https://recipes-app.com",
+      "source_code": "https://github.com/juliana-almeida/recipes-app",
+      "description": "Um aplicativo para descobrir e compartilhar receitas deliciosas."
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "title": "Jogo Mobile - Desafio Espacial",
+      "urlDeploy": "https://space-challenge-game.com",
+      "source_code": "https://github.com/rafael-oliveira/space-challenge",
+      "description": "Um divertido jogo mobile onde o jogador enfrenta desafios no espaço."
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "title": "Calculadora de Investimentos",
+      "urlDeploy": "https://investment-calculator.com",
+      "source_code": "https://github.com/fernanda-ribeiro/investment-calculator",
+      "description": "Uma calculadora online para simular e analisar investimentos financeiros."
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "title": "Plataforma de Streaming de Música",
+      "urlDeploy": "https://music-streaming-platform.com",
+      "source_code": "https://github.com/gustavo-lima/music-streaming",
+      "description": "Uma plataforma para descobrir e ouvir música de forma fácil e personalizada."
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "title": "Jogo de Realidade Virtual",
+      "urlDeploy": "https://vr-game-experience.com",
+      "source_code": "https://github.com/camila-sousa/vr-game",
+      "description": "Um emocionante jogo de realidade virtual para proporcionar uma experiência imersiva."
+    }
+  ],
+  "experiences": [
+    {
+      "id": "1",
+      "userId": "1",
+      "description": "Desenvolvimento de aplicativos web e sistemas internos.",
+      "title": "Desenvolvedor Web",
+      "company": "Tech Solutions",
+      "startDate": "2020-03-15",
+      "current": false,
+      "endDate": "2022-05-20"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "description": "Projeto e implementação de interfaces de usuário para aplicações web.",
+      "title": "Engenheira Front-end",
+      "company": "WebTech Co.",
+      "startDate": "2019-08-10",
+      "current": false,
+      "endDate": "2021-11-30"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "description": "Análise e desenvolvimento de sistemas para otimização de processos internos.",
+      "title": "Analista de Sistemas",
+      "company": "Data Solutions Ltda.",
+      "startDate": "2021-02-01",
+      "current": true,
+      "endDate": null
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "description": "Arquitetura de software e liderança técnica em projetos complexos.",
+      "title": "Arquiteta de Software",
+      "company": "Innovate Tech",
+      "startDate": "2018-11-25",
+      "current": false,
+      "endDate": "2023-01-15"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "description": "Desenvolvimento e manutenção de aplicativos móveis inovadores.",
+      "title": "Desenvolvedor Mobile",
+      "company": "Mobile Apps Inc.",
+      "startDate": "2020-06-05",
+      "current": false,
+      "endDate": "2022-09-10"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "description": "Full-stack development e implementação de soluções escaláveis.",
+      "title": "Desenvolvedora Full-stack",
+      "company": "ScaleTech Solutions",
+      "startDate": "2019-04-15",
+      "current": false,
+      "endDate": "2021-07-30"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "description": "Coordenação de equipes de desenvolvimento em projetos de grande escala.",
+      "title": "Coordenador de Desenvolvimento",
+      "company": "Big Projects Ltda.",
+      "startDate": "2017-10-12",
+      "current": false,
+      "endDate": "2020-12-18"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "description": "Desenvolvimento de aplicativos móveis e inovações em UX/UI.",
+      "title": "Desenvolvedora Mobile",
+      "company": "Innovative Apps",
+      "startDate": "2019-02-20",
+      "current": true,
+      "endDate": null
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "description": "Desenvolvimento de aplicativos nativos para iOS e Android.",
+      "title": "Desenvolvedor Mobile",
+      "company": "Mobile Creations",
+      "startDate": "2020-09-03",
+      "current": false,
+      "endDate": "2022-12-15"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "description": "Análise de investimentos e consultoria financeira.",
+      "title": "Consultora Financeira",
+      "company": "Finance Experts",
+      "startDate": "2018-06-10",
+      "current": false,
+      "endDate": "2021-02-28"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "description": "Desenvolvimento de soluções cloud para otimização de processos.",
+      "title": "Arquiteto de Soluções Cloud",
+      "company": "Cloud Innovations",
+      "startDate": "2019-01-05",
+      "current": false,
+      "endDate": "2022-08-22"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "description": "Desenvolvimento de jogos educativos e interativos.",
+      "title": "Desenvolvedora de Jogos",
+      "company": "EduGames Studio",
+      "startDate": "2021-04-08",
+      "current": true,
+      "endDate": null
+    }
+  ],
+  "educations": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Bacharelado em Engenharia de Computação",
+      "schoolName": "Universidade Tech",
+      "description": "Curso abrangente em Engenharia de Computação, com ênfase em desenvolvimento de software e sistemas.",
+      "startDate": "2016-09-01",
+      "current": false,
+      "endDate": "2020-06-30"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "title": "Bacharelado em Ciência da Computação",
+      "schoolName": "Instituto de Tecnologia",
+      "description": "Curso focado em algoritmos, estruturas de dados e desenvolvimento web.",
+      "startDate": "2017-03-15",
+      "current": false,
+      "endDate": "2021-11-25"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "title": "Mestrado em Sistemas de Informação",
+      "schoolName": "Faculdade de Tecnologia Avançada",
+      "description": "Estudos avançados em sistemas de informação, com pesquisa em inovação tecnológica.",
+      "startDate": "2019-01-20",
+      "current": true,
+      "endDate": null
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "title": "Bacharelado em Engenharia de Software",
+      "schoolName": "Universidade Inovação",
+      "description": "Curso focado no desenvolvimento de software e práticas ágeis.",
+      "startDate": "2015-08-10",
+      "current": false,
+      "endDate": "2019-06-30"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "title": "Bacharelado em Ciência da Computação",
+      "schoolName": "Faculdade de Tecnologia Digital",
+      "description": "Curso abrangente em Ciência da Computação, com enfoque em inteligência artificial.",
+      "startDate": "2016-03-01",
+      "current": false,
+      "endDate": "2020-12-15"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "title": "Bacharelado em Sistemas de Informação",
+      "schoolName": "Instituto de Ciências Aplicadas",
+      "description": "Curso multidisciplinar em sistemas de informação, com foco em aplicações empresariais.",
+      "startDate": "2017-09-05",
+      "current": false,
+      "endDate": "2021-05-20"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "title": "Bacharelado em Engenharia de Software",
+      "schoolName": "Faculdade de Engenharia TechMaster",
+      "description": "Curso abrangente em Engenharia de Software, com ênfase em práticas ágeis e arquitetura de software.",
+      "startDate": "2015-02-15",
+      "current": false,
+      "endDate": "2019-12-10"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "title": "Bacharelado em Ciência da Computação",
+      "schoolName": "Instituto de Tecnologia Digital",
+      "description": "Curso com foco em algoritmos, estruturas de dados e desenvolvimento web.",
+      "startDate": "2016-08-20",
+      "current": true,
+      "endDate": null
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "title": "Bacharelado em Engenharia de Computação",
+      "schoolName": "Universidade Tech",
+      "description": "Curso abrangente em Engenharia de Computação, com ênfase em hardware e software embarcado.",
+      "startDate": "2017-05-10",
+      "current": false,
+      "endDate": "2021-11-30"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "title": "Mestrado em Finanças",
+      "schoolName": "Escola de Negócios",
+      "description": "Estudos avançados em finanças, com foco em investimentos e análise de mercado.",
+      "startDate": "2018-01-25",
+      "current": false,
+      "endDate": "2020-12-05"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "title": "Bacharelado em Ciência da Computação",
+      "schoolName": "Instituto de Tecnologia Innovate",
+      "description": "Curso abrangente em Ciência da Computação, com foco em inovação e empreendedorismo.",
+      "startDate": "2016-09-15",
+      "current": false,
+      "endDate": "2021-05-30"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "title": "Bacharelado em Design de Jogos",
+      "schoolName": "Faculdade de Jogos Interativos",
+      "description": "Curso especializado em design, desenvolvimento e narrativa de jogos.",
+      "startDate": "2019-03-10",
+      "current": true,
+      "endDate": null
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "JavaScript"
+    },
+    {
+      "id": "2",
+      "name": "React"
+    },
+    {
+      "id": "3",
+      "name": "Node.js"
+    },
+    {
+      "id": "4",
+      "name": "Python"
+    },
+    {
+      "id": "5",
+      "name": "Express.js"
+    },
+    {
+      "id": "6",
+      "name": "Django"
+    },
+    {
+      "id": "7",
+      "name": "Angular"
+    },
+    {
+      "id": "8",
+      "name": "Java"
+    },
+    {
+      "id": "9",
+      "name": "Vue.js"
+    },
+    {
+      "id": "10",
+      "name": "MongoDB"
+    },
+    {
+      "id": "11",
+      "name": "SQL"
+    },
+    {
+      "id": "12",
+      "name": "GraphQL"
+    },
+    {
+      "id": "13",
+      "name": "TypeScript"
+    },
+    {
+      "id": "14",
+      "name": "Spring Boot"
+    },
+    {
+      "id": "15",
+      "name": "Prisma"
+    }
+  ],
+  "skill_user": [
+    {
+      "id": "1",
+      "userId": "1",
+      "skillId": "3"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "skillId": "5"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "skillId": "1"
+    },
+    {
+      "id": "4",
+      "userId": "2",
+      "skillId": "2"
+    },
+    {
+      "id": "5",
+      "userId": "3",
+      "skillId": "4"
+    },
+    {
+      "id": "6",
+      "userId": "3",
+      "skillId": "6"
+    },
+    {
+      "id": "7",
+      "userId": "4",
+      "skillId": "8"
+    },
+    {
+      "id": "8",
+      "userId": "4",
+      "skillId": "14"
+    },
+    {
+      "id": "9",
+      "userId": "5",
+      "skillId": "11"
+    },
+    {
+      "id": "10",
+      "userId": "5",
+      "skillId": "10"
+    },
+    {
+      "id": "11",
+      "userId": "6",
+      "skillId": "13"
+    },
+    {
+      "id": "12",
+      "userId": "6",
+      "skillId": "7"
+    },
+    {
+      "id": "13",
+      "userId": "7",
+      "skillId": "15"
+    },
+    {
+      "id": "14",
+      "userId": "7",
+      "skillId": "12"
+    },
+    {
+      "id": "15",
+      "userId": "8",
+      "skillId": "9"
+    }
+  ],
+  "portfolios": [
+    {
+      "id": "1",
+      "userId": "1",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "likes": 10,
+      "visited": 5,
+      "published": true
+    }
+  ],
+  "experience_portfolio": [
+    {
+      "portfolioId": "1",
+      "experienceId": "1"
+    },
+    {
+      "portfolioId": "2",
+      "experienceId": "2"
+    },
+    {
+      "portfolioId": "3",
+      "experienceId": "3"
+    },
+    {
+      "portfolioId": "4",
+      "experienceId": "4"
+    },
+    {
+      "portfolioId": "5",
+      "experienceId": "5"
+    },
+    {
+      "portfolioId": "6",
+      "experienceId": "6"
+    },
+    {
+      "portfolioId": "7",
+      "experienceId": "7"
+    },
+    {
+      "portfolioId": "8",
+      "experienceId": "8"
+    },
+    {
+      "portfolioId": "9",
+      "experienceId": "9"
+    },
+    {
+      "portfolioId": "10",
+      "experienceId": "10"
+    },
+    {
+      "portfolioId": "11",
+      "experienceId": "11"
+    },
+    {
+      "portfolioId": "12",
+      "experienceId": "12"
+    }
+  ],
+  "education_portfolio": [
+    {
+      "portfolioId": "1",
+      "educationId": "1"
+    },
+    {
+      "portfolioId": "2",
+      "educationId": "2"
+    },
+    {
+      "portfolioId": "3",
+      "educationId": "3"
+    },
+    {
+      "portfolioId": "4",
+      "educationId": "4"
+    },
+    {
+      "portfolioId": "5",
+      "educationId": "5"
+    },
+    {
+      "portfolioId": "6",
+      "educationId": "6"
+    },
+    {
+      "portfolioId": "7",
+      "educationId": "7"
+    },
+    {
+      "portfolioId": "8",
+      "educationId": "8"
+    },
+    {
+      "portfolioId": "9",
+      "educationId": "9"
+    },
+    {
+      "portfolioId": "10",
+      "educationId": "10"
+    },
+    {
+      "portfolioId": "11",
+      "educationId": "11"
+    },
+    {
+      "portfolioId": "12",
+      "educationId": "12"
+    }
+  ],
+  "skill_portfolio": [
+    {
+      "portfolioId": "1",
+      "skillId": "3"
+    },
+    {
+      "portfolioId": "1",
+      "skillId": "5"
+    },
+    {
+      "portfolioId": "2",
+      "skillId": "1"
+    },
+    {
+      "portfolioId": "2",
+      "skillId": "2"
+    },
+    {
+      "portfolioId": "3",
+      "skillId": "4"
+    },
+    {
+      "portfolioId": "3",
+      "skillId": "6"
+    },
+    {
+      "portfolioId": "4",
+      "skillId": "8"
+    },
+    {
+      "portfolioId": "4",
+      "skillId": "14"
+    },
+    {
+      "portfolioId": "5",
+      "skillId": "11"
+    },
+    {
+      "portfolioId": "5",
+      "skillId": "10"
+    },
+    {
+      "portfolioId": "6",
+      "skillId": "13"
+    },
+    {
+      "portfolioId": "6",
+      "skillId": "7"
+    },
+    {
+      "portfolioId": "7",
+      "skillId": "15"
+    },
+    {
+      "portfolioId": "7",
+      "skillId": "12"
+    },
+    {
+      "portfolioId": "8",
+      "skillId": "9"
+    },
+    {
+      "portfolioId": "9",
+      "skillId": "3"
+    },
+    {
+      "portfolioId": "9",
+      "skillId": "5"
+    },
+    {
+      "portfolioId": "10",
+      "skillId": "1"
+    },
+    {
+      "portfolioId": "10",
+      "skillId": "2"
+    },
+    {
+      "portfolioId": "11",
+      "skillId": "4"
+    },
+    {
+      "portfolioId": "11",
+      "skillId": "6"
+    },
+    {
+      "portfolioId": "12",
+      "skillId": "8"
+    },
+    {
+      "portfolioId": "12",
+      "skillId": "10"
+    }
+  ],
+  "project_portfolio": [
+    {
+      "portfolioId": "1",
+      "projectId": "1"
+    },
+    {
+      "portfolioId": "2",
+      "projectId": "2"
+    },
+    {
+      "portfolioId": "3",
+      "projectId": "3"
+    },
+    {
+      "portfolioId": "4",
+      "projectId": "4"
+    },
+    {
+      "portfolioId": "5",
+      "projectId": "5"
+    },
+    {
+      "portfolioId": "6",
+      "projectId": "6"
+    },
+    {
+      "portfolioId": "7",
+      "projectId": "7"
+    },
+    {
+      "portfolioId": "8",
+      "projectId": "8"
+    },
+    {
+      "portfolioId": "9",
+      "projectId": "9"
+    },
+    {
+      "portfolioId": "10",
+      "projectId": "10"
+    },
+    {
+      "portfolioId": "11",
+      "projectId": "11"
+    },
+    {
+      "portfolioId": "12",
+      "projectId": "12"
+    }
+  ],
+  "liked_portfolios": []
+}
